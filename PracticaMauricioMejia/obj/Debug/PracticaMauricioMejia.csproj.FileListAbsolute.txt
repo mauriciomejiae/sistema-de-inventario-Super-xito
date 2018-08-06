@@ -1,0 +1,20 @@
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\bin\Debug\PracticaMauricioMejia.exe.config
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\bin\Debug\PracticaMauricioMejia.exe
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\bin\Debug\PracticaMauricioMejia.pdb
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.Form1.resources
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.Properties.Resources.resources
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.csproj.GenerateResource.Cache
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.exe
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.pdb
+C:\Users\Mauricio\Desktop\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.Form2.resources
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\bin\Debug\PracticaMauricioMejia.exe.config
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\bin\Debug\PracticaMauricioMejia.exe
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\bin\Debug\PracticaMauricioMejia.pdb
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.Form1.resources
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.Form2.resources
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.Properties.Resources.resources
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.csproj.GenerateResource.Cache
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.exe
+C:\Users\Mauricio M\Downloads\PracticaMauricioMejia\PracticaMauricioMejia\obj\Debug\PracticaMauricioMejia.pdb
