@@ -14,7 +14,6 @@ cumpliendo así con el comportamiento de una Cola, es decir el primero que ingre
 que sale, a través de la colección genérica Queue <T>. adicionalmente se requiere conocer el 
 acumulado total del valor del inventario ingresado a la cola.
 
-==========================================================================================
 Curso: Estructura de datos
 Autor: Mauricio Mejia Estevez
 Fecha: Diciembre 12 de 2017
